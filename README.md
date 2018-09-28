@@ -1,5 +1,7 @@
-# capstone_ML
-Repository for submission of my capstone project or the Machine Learning Engineer Nanodegree through Udacity
+# Machine Learning Engineer Nanodegree
+## Deep Learning
+## Project: Google Analytics Customer Revenue Prediction
+Repository for submission of my capstone project for the Machine Learning Engineer Nanodegree through Udacity
 
 This project is a recent Kaggle competition from RStudio, Google Cloud and Kaggle to demonstrate the impact that thorough data analysis can have. 
 For many businesses the 80/20 rule has proven true, where only a small percentage of customers produce most of the revenue. 
