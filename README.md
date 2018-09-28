@@ -8,3 +8,10 @@ For many businesses the 80/20 rule has proven true, where only a small percentag
 This challenges marketing teams to invest in the most appropriate promotional strategies and target the right customers to increase revenue. 
 I will be employing a Deep Learning neural network here to attempt to solve the problem through TensorFlow
  
+### Software and Libraries
+Python 3.6
+TensorFlow 1.9.1
+Keras
+Pandas
+Numpy
+Matplotlib
