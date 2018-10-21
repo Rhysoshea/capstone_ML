@@ -18,4 +18,6 @@ I will be employing a Deep Learning neural network here to attempt to solve the 
 - Sklearn
 - SHAP (https://github.com/slundberg/shap)
 - eli5 (https://eli5.readthedocs.io/en/latest/overview.html#installation)
+- This is a processing and memory heavy problem therefore the use of Amazon Web Services was required. A virtual machine p2.xlarge instance was used, which has a storage memory of 61 GiB and a GPU memory of 12 GiB.
+
 
