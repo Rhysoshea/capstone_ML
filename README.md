@@ -11,9 +11,15 @@ I will be employing a Deep Learning neural network here to attempt to solve the 
 The data source is from the ‘Google Analytics Customer Revenue Prediction’ competition, the API of which is `kaggle competitions download –c ga-customer-revenue-prediction`. The data is also accessible through the Google Cloud Platform BigQuery as the `ga_train_set` dataset, and the `ga_test_set` dataset, under the `kaggle-public-datasets` project
 
 ### Software and Libraries
-Python 3.6
-TensorFlow 1.9.1
-Keras
-Pandas
-Numpy
-Matplotlib
+- Python 3.6
+- TensorFlow 1.9.1
+- Keras 
+- Pandas
+- Numpy
+- Matplotlib
+- Sklearn
+- SHAP (https://github.com/slundberg/shap)
+- eli5 (https://eli5.readthedocs.io/en/latest/overview.html#installation)
+- This is a processing and memory heavy problem therefore the use of Amazon Web Services was required. A virtual machine p2.xlarge instance was used, which has a storage memory of 61 GiB and a GPU memory of 12 GiB.
+
+
