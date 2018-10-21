@@ -11,7 +11,11 @@ I will be employing a Deep Learning neural network here to attempt to solve the 
 ### Software and Libraries
 Python 3.6
 TensorFlow 1.9.1
-Keras
+Keras 
 Pandas
 Numpy
 Matplotlib
+Sklearn
+SHAP (https://github.com/slundberg/shap)
+eli5 (https://eli5.readthedocs.io/en/latest/overview.html#installation)
+
